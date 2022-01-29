@@ -1,0 +1,59 @@
+*{
+
+   margin: 0px;
+   padding: 0px;
+
+}
+
+body{
+    background: url(image/canada\ 2.jpg);
+    background-repeat: no-repeat;
+   background-size: cover;
+   font-family: 'Roboto', sans-serif;
+}
+
+
+.container{
+   width: 600px;
+   margin: 10% auto;
+
+
+   
+}
+.login-section{
+    color: brown;
+    padding: 20px;
+
+}
+.login-section img {
+   width: 150px;
+   margin: 0 auto;
+   display: block;
+
+}
+
+
+
+.login-section h2{
+    text-align: center;
+    color: coral;
+    margin: 10px 0px;
+
+}
+
+.forn-control{
+    width: 97%;
+    height: 35px;
+    padding-left: 6px;
+   
+
+}
+.submit-btn{
+    background-color: maroon;
+    color: #fff;
+    padding: 8px 20px;
+    text-transform: uppercase;
+    margin:0 auto ;
+    display: block;
+ 
+}
